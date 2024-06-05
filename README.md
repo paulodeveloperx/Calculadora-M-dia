@@ -20,7 +20,8 @@ Aqui está o inicio do meu projeto eu declarei 4 double, essas 4 são a nota da 
 
 Aqui eu resolvi colocar uma opção para fazer o download do boletim já com as notas mais essa opção ainda está em teste
 
-![CODE 1](https://github.com/paulodeveloperx/Calculadora-M-dia/assets/1
+![Only Code Editor (2)](https://github.com/paulodeveloperx/Calculadora-M-dia/assets/108774706/0e75477d-5c49-40aa-8251-a3e3dacdb371)
+
 
 # Calculo Separado
 
