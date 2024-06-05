@@ -27,13 +27,14 @@ Aqui eu resolvi colocar uma opção para fazer o download do boletim já com as 
 
 Aqui eu adicionei duas caixa de texto uma para aparecer a nota da parcial 1 e outra para aparecer a nota da parcial 2 para o aluno ou professor ver quantos o aluno tirou na parcial 1 e 2.
 
-![alt text](<Only Code Editor (3).png>)
+![Only Code Editor (3)](https://github.com/paulodeveloperx/Calculadora-M-dia/assets/108774706/ecc948d2-03e7-4538-94ef-c0068d867784)
+08774706/bb3e58f8-d0e6-4e56-be4f-108d6e865a35)
 
 # Botão de Limpar
 
 Nesse  botão de limpar eu usei o **foreach** para pegar todos os TextBox da aplicação eu declarei que nesses TextBox não vai ter nenhum valor por isso coloquei apenas as duas aspas vazias após eu clicar no botão de limpar ele vai adicionar a string que eu declarei mais não contem nada na string por isso o TextBox vai estar todo branco.
 
-![alt text](<Only Code Editor (1).png>)
+![Only Code Editor (4)](https://github.com/paulodeveloperx/Calculadora-M-dia/assets/108774706/dd700ed8-3469-405a-89a4-b5ca0f5c7116)
 
 Aqui vou estar deixando o link do executavel par estar fazendo o download 
 
