@@ -1,8 +1,6 @@
-# Calculadora Média
-
 ## Apresentação do Projeto 
 
-Olá me chamo Paulo Cesar sou developer estou trazendo aqui esse projeto de calculadora de média de notas, eu decedi criar esse projeto com intuito de ajudar os professores a calcular a média dos alunos para ser mais rapido e prático, por enquanto esse projeto está bem simples pois essa é primeira versão ainda, mais tem muita coisa por vir na proxima versão ele vai estar gerando uma planilha com nome e média final dos alunos tem muita coisa por vir ainda, agora vou estar apresentando a linguagem que foi usado nesse projeto e como eu fiz para criar esse projeto para calcular as notas.
+Olá me chamo Paulo Cesar sou developer estou trazendo aqui esse projeto de calculadora de média de notas, eu decedi criar esse projeto com intuito de ajudar os professores a calcular a média dos alunos e também ajudar os alunos a calcular sua nota pois muitos estva tendo dificuldade para calcular a nota então fui procurar a saber como funcionava ai então eu busquei uma solução para ser mais rapido e prático, por enquanto esse projeto está bem simples pois essa é primeira versão ainda, mais tem muita coisa por vir na proxima versão, agora vou estar apresentando a linguagem que foi usado nesse projeto e como eu fiz para criar esse projeto para calcular as notas.
 
 
 ## 🛠️ Tools
@@ -12,21 +10,29 @@ Olá me chamo Paulo Cesar sou developer estou trazendo aqui esse projeto de calc
 
 
 
-# Botão de Calcular
+# Inicio
 
-Aqui está o botão para calcular a media eu decedi criar 3 float sendo eles **Soma, Media e Valor** após isso declarei que **Soma** terá valor 0, depois crie um **foreach** para pegar todas as notas digitadas no 3 textbox da aplicacão após isso eu usei também **Convert.ToSingle** para converter para converter um valor especificado  para um tipo de dado float.
+Aqui está o inicio do meu projeto eu declarei 4 double, essas 4 são a nota da minha faculdade, **nota1** seria a parcial 1 e **nota2** seria a parcial 2 e assim endiante, após isso eu crio a variavel média para somar as notas da parcial 1 e 2.
 
-Então peguei a **media** o valor que eu tinha declarado como float, então na média vai conter **soma** nessa soma vai estar pegando todos os valores digitados no 3 textbox e vai estar dividindo por 3.
+![alt text](<CODE 1.png>)
 
-Para finalizar eu usei o this.Controls para acessar o textBox4 e depois eu usei **media.ToString** media é variavel que contem algum valor numerico e **ToString** é metodo que vai converter o valor de **media** para uma representação string.
+# Download do Boletim
 
-![Only Code Editor](https://github.com/paulodeveloperx/Calculadora-M-dia/assets/108774706/6e1a6921-f420-4e00-9cfa-b51fec29b588)
+Aqui eu resolvi colocar uma opção para fazer o download do boletim já com as notas mais essa opção ainda está em teste
+
+![alt text](<Only Code Editor (2).png>)
+
+# Calculo Separado
+
+Aqui eu adicionei duas caixa de texto uma para aparecer a nota da parcial 1 e outra para aparecer a nota da parcial 2 para o aluno ou professor ver quantos o aluno tirou na parcial 1 e 2.
+
+![alt text](<Only Code Editor (3).png>)
 
 # Botão de Limpar
 
-Nesse  botão de limpar eu usei o **foreach** também para pegar todos os TextBox da aplicação eu declarei que nesses TextBox não vai ter nenhum valor por isso coloquei apenas as duas aspas vazias após eu clicar no botão de limpar ele vai adicionar a string que eu declarei mais não contem nada na string por isso o TextBox vai estar todo branco.
+Nesse  botão de limpar eu usei o **foreach** para pegar todos os TextBox da aplicação eu declarei que nesses TextBox não vai ter nenhum valor por isso coloquei apenas as duas aspas vazias após eu clicar no botão de limpar ele vai adicionar a string que eu declarei mais não contem nada na string por isso o TextBox vai estar todo branco.
 
-![Only Code Editor (1)](https://github.com/paulodeveloperx/Calculadora-M-dia/assets/108774706/3a944b42-80c9-4b73-bca1-c0c77cb47a67)
+![alt text](<Only Code Editor (1).png>)
 
 Aqui vou estar deixando o link do executavel par estar fazendo o download 
 
