@@ -14,7 +14,7 @@ Olá me chamo Paulo Cesar sou developer estou trazendo aqui esse projeto de calc
 
 Aqui está o inicio do meu projeto eu declarei 4 double, essas 4 são a nota da minha faculdade, **nota1** seria a parcial 1 e **nota2** seria a parcial 2 e assim endiante, após isso eu crio a variavel média para somar as notas da parcial 1 e 2.
 
-![alt text](<CODE 1.png>)
+![CODE 1](https://github.com/paulodeveloperx/Calculadora-M-dia/assets/108774706/64002b68-1cb3-49ec-b636-1ae180b104d6)
 
 # Download do Boletim
 
